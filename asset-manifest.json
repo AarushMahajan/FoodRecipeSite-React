@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FoodRecipeSite-React/static/css/main.3a1c1c67.chunk.css",
+    "main.js": "/FoodRecipeSite-React/static/js/main.bb7ea908.chunk.js",
+    "main.js.map": "/FoodRecipeSite-React/static/js/main.bb7ea908.chunk.js.map",
+    "runtime-main.js": "/FoodRecipeSite-React/static/js/runtime-main.39651e3f.js",
+    "runtime-main.js.map": "/FoodRecipeSite-React/static/js/runtime-main.39651e3f.js.map",
+    "static/js/2.b4751a17.chunk.js": "/FoodRecipeSite-React/static/js/2.b4751a17.chunk.js",
+    "static/js/2.b4751a17.chunk.js.map": "/FoodRecipeSite-React/static/js/2.b4751a17.chunk.js.map",
+    "index.html": "/FoodRecipeSite-React/index.html",
+    "precache-manifest.8b1735b75c1641e8eea2d6860cf72e7b.js": "/FoodRecipeSite-React/precache-manifest.8b1735b75c1641e8eea2d6860cf72e7b.js",
+    "service-worker.js": "/FoodRecipeSite-React/service-worker.js",
+    "static/css/main.3a1c1c67.chunk.css.map": "/FoodRecipeSite-React/static/css/main.3a1c1c67.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39651e3f.js",
+    "static/js/2.b4751a17.chunk.js",
+    "static/css/main.3a1c1c67.chunk.css",
+    "static/js/main.bb7ea908.chunk.js"
+  ]
+}
